@@ -125,3 +125,4 @@ _modules/*
 /results/
 /phpunit*.xml
 database/spk_moora_final.sql
+database/spk_moora_final.sql
